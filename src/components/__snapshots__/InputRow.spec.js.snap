@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputRow should exist  1`] = `
+<div>
+  <div
+    class="input-row undefined"
+  >
+    <p />
+    <input
+      data-testid="input-row-input"
+      value=""
+    />
+  </div>
+</div>
+`;
