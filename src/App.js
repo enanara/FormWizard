@@ -1,11 +1,12 @@
 import React from 'react';
-import FirstPage from './pages/FirstPage';
+import PageContainer from './components/PageContainer'
 import './App.css';
+
 
 function App() {
   return (
-    <FirstPage />
-  );
+    <PageContainer />
+  )
 }
 
 export default App;
